@@ -12,7 +12,7 @@ This repository contains my personal portfolio website which showcases my skills
 - Skills display  
 - Projects showcase with previews / descriptions  
 - Contact form & social links  
-- Smooth scrolling and animations (if added)
+- Smooth scrolling and animations 
 
 ---
 
@@ -23,12 +23,14 @@ This repository contains my personal portfolio website which showcases my skills
 | **HTML**  | Structure of the website |
 | **CSS**   | Styling and layout |
 | **JavaScript** | Interactivity and UI behavior |
+| **PHP** | Used to handle functionality |
+
 
 ---
 
 ## 🚀 How to View the Website
 
-You can view the live version of this portfolio here:  
+You can view the live version of my portfolio here:  
 👉 *(Add GitHub Pages link here after you host it)*
 
-Example:
+
