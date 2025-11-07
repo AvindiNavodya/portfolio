@@ -23,7 +23,7 @@ This repository contains my personal portfolio website which showcases my skills
 | **HTML**  | Structure of the website |
 | **CSS**   | Styling and layout |
 | **JavaScript** | Interactivity and UI behavior |
-| **PHP** | Used to handle functionality |
+| **PHP** | Used to handle functionalities |
 
 
 ---
